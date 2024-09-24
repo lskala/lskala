@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I am a **System Administrator** with over a decade
 ---
 
 ## 🤝 Let's Connect
-- **WEBSITE:** [Your Website]((https://lskala.top/))
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/klsanjoh)
+- **WEBSITE:** [Website](https://lskala.top/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/klsanjoh)
 
 ---
 
