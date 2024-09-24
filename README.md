@@ -1,24 +1,42 @@
-<h1 align="center">Hi 👋, I'm Louis Sanjoh Kala</h1>
-<h3 align="center">System Administrator</h3>
+# 🌐 System Administrator
 
-- 🔭 I’m currently working on [Deploying Docker Container](#)
+![System Administrator Banner](https://lskala.top/wp-content/uploads/2024/09/server.jpg)
 
-- 🌱 I’m currently learning **Azure DevOps**
+Welcome to my GitHub profile! I am a **System Administrator** with over a decade of experience in the **web hosting industry**. My expertise spans across managing large-scale server environments, ensuring high availability, optimizing performance, and providing world-class support for hosting platforms.
 
-- 👨‍💻 Projects are available at [https://lskala.top/project/](https://lskala.top/project/)
+---
 
-- 📝 I regularly write articles on [https://lskala.top/blog/](https://lskala.top/blog/)
+## 💻 Skills and Expertise
 
-- 💬 Ask me about **Web Hosting**
+### 🛠 System Administration
+- **Operating Systems:** ![Linux](https://img.shields.io/badge/Linux-CC0000?style=flat&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+- **Automation:** ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+- **Server Management:** Apache, Nginx, Plesk, cPanel, WHM
+- **Virtualization:** Proxmox, VMware, Hyper-V, Docker, LXC
+- **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud, DigitalOcean, Linode, Contabo
+- **Database Management:** PHPMYADMIN MySQL, MariaDB
 
-- 📫 How to reach me **https://lskala.top/contact/**
+### 🕸 Web Hosting Services
+- **Web Servers:** LAMP/LEMP stack management and optimization
+- **DNS Management:** Bind, AWS Route53
+- **Email Systems:** Postfix, Dovecot, Exim, Microsoft Outlook, Zoho
+- **SSL/TLS:** Certificate generation, configuration, and management (Let’s Encrypt, self-signed, commercial)
 
-- 📄 Know about my experiences [https://lskala.top](https://lskala.top)
+### 🛡 Security & Compliance
+- **Firewall:** firewalld, UFW, Fail2ban, Cloudflare, WAF, ClamV, CrowSec
+- **Security Audits:** Vulnerability scanning, patch management, and system hardening
+- **Compliance Standards:** PCI-DSS, GDPR
+- **Backup Solutions:** Rsync, Virtualmin, JetBacup, Acronis
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/klsanjoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/klsanjoh" height="30" width="40" /></a>
-</p>
+### 📈 Performance Optimization
+- **Monitoring Tools:** ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+- **Caching:** Redis
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+## 🤝 Let's Connect
+- **WEBSITE:** [Your Website]((https://lskala.top/))
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/klsanjoh)
+
+---
+
+Thank you for visiting! I'm always open to collaborating on challenging projects, sharing knowledge, or discussing new opportunities. Let's create something great together!
