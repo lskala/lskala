@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a **System Administrator** with over a decade
 - **Database Management:** PHPMYADMIN MySQL, MariaDB
 
 ### 🕸 Web Hosting Services
-- **Web Servers:** LAMP/LEMP stack management and optimization
+- **Web Servers:** LAMP/LEMP stack
 - **DNS Management:** Bind, AWS Route53
 - **Email Systems:** Postfix, Dovecot, Exim, Microsoft Outlook, Zoho
 - **SSL/TLS:** Certificate generation, configuration, and management (Let’s Encrypt, self-signed, commercial)
