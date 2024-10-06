@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a **System Administrator** with over a decade
 - **SSL/TLS:** Certificate generation, configuration, and management (Let’s Encrypt, self-signed, commercial)
 
 ### 🛡 Security & Compliance
-- **Firewall:** firewalld, UFW, Fail2ban, Cloudflare, WAF, ClamV, CrowSec
+- **Firewall:** firewalld, UFW, Fail2ban, Cloudflare, WAF, ClamV, CrowdSec
 - **Security Audits:** Vulnerability scanning, patch management, and system hardening
 - **Compliance Standards:** PCI-DSS, GDPR
 - **Backup Solutions:** Rsync, Virtualmin, JetBacup, Acronis
