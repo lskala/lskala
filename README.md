@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a **System Administrator** with over a decade
 ### 🛠 System Administration
 - **Operating Systems:** ![Linux](https://img.shields.io/badge/Linux-CC0000?style=flat&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 - **Automation:** ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-- **Server Management:** Virtualmin, Plesk, cPanel, WHM
+- **Server Management:** Virtualmin, Plesk, cPanel, Hestiacp
 - **Virtualization:** Proxmox, VMware, Hyper-V, Docker
 - **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud, DigitalOcean, Linode, Contabo
 - **Database Management:** PHPMYADMIN MySQL, MariaDB
